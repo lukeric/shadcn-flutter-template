@@ -12,6 +12,20 @@ A template for start using shadcn UI library in flutter projects.
   - **Overlays**: dialogs, bottom sheets, popovers, tooltips, context menu, toast + sonner
   - **Layouts**: accordion, nested tabs, table
 
+## Screenshots
+
+| Overview | Forms |
+|---|---|
+| ![Overview tab](doc/screenshots/ss-000.jpeg) | ![Forms tab](doc/screenshots/ss-002.jpeg) |
+
+| Pickers | Overlays |
+|---|---|
+| ![Pickers tab](doc/screenshots/ss-001.jpeg) | ![Overlays tab](doc/screenshots/ss-004.jpeg) |
+
+| Layouts |
+|---|
+| ![Layouts tab](doc/screenshots/ss-003.jpeg) |
+
 ## Why there are no platform folders in this repo
 
 This repository intentionally **does not commit any platform/deployment folders** (`android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/`). They can be regenerated locally when needed.
