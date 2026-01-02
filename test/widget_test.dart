@@ -7,7 +7,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:test_shadcn_codex/main.dart';
+import 'package:shadcn_flutter_template/main.dart';
 
 void main() {
   testWidgets('App bootstraps', (WidgetTester tester) async {
